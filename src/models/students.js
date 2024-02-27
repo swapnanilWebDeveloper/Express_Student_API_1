@@ -52,6 +52,6 @@ const studentSchema = new  mongoose.Schema({
     hobbies : [String],
 });
 
-const student = mongoose.model('student', studentSchema);
+const Student = mongoose.model('Student', studentSchema);
 
-module.exports = student;
+module.exports = Student;
