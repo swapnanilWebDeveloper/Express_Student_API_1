@@ -1,0 +1,302 @@
+[
+   {
+     "name" : {
+        "first" : "Mayuk",
+        "last" : "Mukherjee"
+    },
+    "age" : 24,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "California",
+        "district" : "Denver",
+        "city" : "Ohio"
+    },
+    "science" : {
+        "physics" : 99,
+        "chemistry" : 88,
+        "mathematics" : 97
+    },
+    "hobbies" : ["Gymming", "Reading", "Travelling", "Painting"]
+   },
+   {
+    "name" : {
+        "first" : "Suryendu",
+        "last" : "Sarkar"
+    },
+    "age" : 22,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "Colorado",
+        "district" : "Colorado",
+        "city" : "Georgia"
+    },
+    "science" : {
+        "physics" : 86,
+        "chemistry" : 81,
+        "mathematics" : 92
+    },
+    "hobbies" : ["Gymming", "Reading", "Singing", "Dancing"]
+   },
+   {
+    "name" : {
+        "first" : "Aninda",
+        "last" : "Mukherjee"
+    },
+    "age" : 27,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "Texas",
+        "district" : "Ohio",
+        "city" : "Colorado"
+    },
+    "science" : {
+        "physics" : 81,
+        "chemistry" : 71,
+        "mathematics" : 86
+    },
+    "hobbies" : ["Gymming", "Travelling", "Singing", "Painting"]
+   },
+   {
+    "name" : {
+        "first" : "Snalap",
+        "last" : "Gadai"
+    },
+    "age" : 22,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "California",
+        "district" : "Georgia",
+        "city" : "Denver"
+    },
+    "science" : {
+        "physics" : 74,
+        "chemistry" : 86,
+        "mathematics" : 69
+    },
+    "hobbies" : ["Blogging", "Cricket", "Dancing", "Reading"]
+   },
+   {
+    "name" : {
+        "first" : "Souvik",
+        "last" : "Chatterjee"
+    },
+    "age" : 29,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "Colorado",
+        "district" : "Ohio",
+        "city" : "Colorado"
+    },
+    "science" : {
+        "physics" : 66,
+        "chemistry" : 58,
+        "mathematics" : 84
+    },
+    "hobbies" : ["Blogging", "Cricket", "Dancing", "Reading"]
+   },
+   {
+    "name" : {
+        "first" : "Shreyashi",
+        "last" : "Biswas"
+    },
+    "age" : 19,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "California",
+        "district" : "Georgia",
+        "city" : "Ohio"
+    },
+    "science" : {
+        "physics" : 86,
+        "chemistry" : 74,
+        "mathematics" : 64
+    },
+    "hobbies" : ["Blogging", "Cricket", "Football", "Coocking"]
+   },
+   {
+    "name" : {
+        "first" : "Sukalpa",
+        "last" : "Das"
+    },
+    "age" : 38,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Texas",
+        "district" : "California",
+        "city" : "Denver"
+    },
+    "science" : {
+        "physics" : 56,
+        "chemistry" : 78,
+        "mathematics" : 94
+    },
+    "hobbies" : ["Blogging", "Football", "Singing", "Tennis"]
+   },
+   {
+    "name" : {
+        "first" : "Sanjukta",
+        "last" : "Chatterjee"
+    },
+    "age" : 32,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Denver",
+        "district" : "Colorado",
+        "city" : "Colorado"
+    },
+    "science" : {
+        "physics" : 96,
+        "chemistry" : 52,
+        "mathematics" : 74
+    },
+    "hobbies" : ["Singing", "Baseball", "Coocking", "Football"]
+   },
+   {
+    "name" : {
+        "first" : "Soumi",
+        "last" : "Chatterjee"
+    },
+    "age" : 36,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "California",
+        "district" : "Texas",
+        "city" : "Ohio"
+    },
+    "science" : {
+        "physics" : 74,
+        "chemistry" : 83,
+        "mathematics" : 79
+    },
+    "hobbies" : ["Gymming", "Tennis", "Coocking", "Travelling"]
+   },
+   {
+    "name" : {
+        "first" : "Kakan",
+        "last" : "Bag"
+    },
+    "age" : 49,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Denver",
+        "district" : "California",
+        "city" : "Georgia"
+    },
+    "science" : {
+        "physics" : 88,
+        "chemistry" : 72,
+        "mathematics" : 69
+    },
+    "hobbies" : ["Tennis", "Cricket", "Singing", "Reading"]
+   },
+   {
+    "name" : {
+        "first" : "Tom",
+        "last" : "Cruise"
+    },
+    "age" : 42,
+    "isAlive" : true,
+    "gender" : "Male",
+    "address" : {
+        "state" : "Colorado",
+        "district" : "Texas",
+        "city" : "Georgia"
+    },
+    "science" : {
+        "physics" : 91,
+        "chemistry" : 77,
+        "mathematics" : 64
+    },
+    "hobbies" : ["Blogging", "Gymming", "Dancing", "Baseball"]
+   },
+   {
+    "name" : {
+        "first" : "Natlie",
+        "last" : "Portman"
+    },
+    "age" : 46,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Ohio",
+        "district" : "Colorado",
+        "city" : "Ohio"
+    },
+    "science" : {
+        "physics" : 88,
+        "chemistry" : 66,
+        "mathematics" : 92
+    },
+    "hobbies" : ["Reading", "Tennis", "Dancing", "Footbal"]
+   },
+   {
+    "name" : {
+        "first" : "Emma",
+        "last" : "Stone"
+    },
+    "age" : 53,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Georgia",
+        "district" : "Denver",
+        "city" : "Georgia"
+    },
+    "science" : {
+        "physics" : 94,
+        "chemistry" : 67,
+        "mathematics" : 84
+    },
+    "hobbies" : ["Blogging", "Gymming", "Coocking", "Singing"]
+   },
+   {
+    "name" : {
+        "first" : "Catherine",
+        "last" : "Langford"
+    },
+    "age" : 44,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Ohio",
+        "district" : "Colorado",
+        "city" : "California"
+    },
+    "science" : {
+        "physics" : 81,
+        "chemistry" : 57,
+        "mathematics" : 94
+    },
+    "hobbies" : ["Travelling", "Tennis", "Dancing", "Baseball"]
+   },
+   {
+    "name" : {
+        "first" : "Sylvester",
+        "last" : "Stellone"
+    },
+    "age" : 46,
+    "isAlive" : true,
+    "gender" : "Female",
+    "address" : {
+        "state" : "Georgia",
+        "district" : "Denver",
+        "city" : "Ohio"
+    },
+    "science" : {
+        "physics" : 68,
+        "chemistry" : 97,
+        "mathematics" : 82
+    },
+    "hobbies" : ["Reading", "Painting", "Coocking", "Footbal"]
+   }
+]
